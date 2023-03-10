@@ -1,0 +1,29 @@
+Windows Registry Editor Version 5.00
+
+; Power++ 2.0 STL registry
+; Generate by Stark Lee
+
+[HKEY_CURRENT_USER\SOFTWARE\Stark Industries\PowerPlus]
+
+[HKEY_CURRENT_USER\SOFTWARE\Stark Industries\PowerPlus\Configuration]
+"actionLMB"=dword:00010001
+"actionRMB"=dword:00010007
+"isRMShowMenu"=dword:00000001
+"isShowAtStartup"=dword:00000001
+"isStartupEnabled"=dword:00000001
+"isAskBefore"=dword:00000000
+"isSaveLogs"=dword:00000001
+"isShowError"=dword:00000000
+"isScheduleTip"=dword:00000001
+"languageID"=dword:00000000
+
+[HKEY_CURRENT_USER\SOFTWARE\Stark Industries\PowerPlus\Schedule]
+"isEnable"=dword:00000001
+"hour"=dword:00000014
+"minute"=dword:0000001f
+"second"=dword:0000001e
+"day"=dword:0000001d
+"month"=dword:00000003
+"year"=dword:000007e1
+"action"=dword:00010001
+"isDoEveryday"=dword:00000000
