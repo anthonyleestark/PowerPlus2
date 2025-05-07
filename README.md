@@ -5,7 +5,7 @@ Version v2.0 added several advanced features and was officially renamed as Power
 The original source code of the first version has been lost because I didn't back it up when upgrading version =)))
 
 ## Changes and updates
-Version: 2.0 (v2.0.1.0) - Release Date: August 2017
+### Version: 2.0 (v2.0.1.0) - Release Date: August 2017
 
 **Improvements and corrections:**
 - Fixed a bug that software crashed when clicked on the notify icon when action setting of left mouse and right mouse are the same
@@ -26,4 +26,4 @@ Version: 2.0 (v2.0.1.0) - Release Date: August 2017
 
 ## Build & usage
 - This version's source code has been deprecated and is for archival purposes only
-- I do not recommend building and running this version, use version v3.x instead
+- I do not recommend building and running this version, use [Power++ v3.x](https://github.com/anthonyleestark/PowerPlus3) instead
