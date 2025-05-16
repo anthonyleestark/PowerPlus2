@@ -1,5 +1,8 @@
 #pragma once
 
+// Include stdafx.h
+#include "stdafx.h"
+
 // Check if WINDOWS.H be included
 #ifndef WINDOWS_H_INCLUDED
 #define WINDOWS_H_INCLUDED

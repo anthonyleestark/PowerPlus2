@@ -2,6 +2,7 @@
 #ifndef _LANGUAGE_H
 #define _LANGUAGE_H
 
+#include "stdafx.h"
 #include "windows.h"
 
 namespace langfile

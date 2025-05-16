@@ -1,4 +1,7 @@
 ﻿#pragma once
+
+#include "stdafx.h"
+
 #include "atlstr.h"
 #include "windows.h"
 

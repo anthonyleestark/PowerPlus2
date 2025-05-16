@@ -3,15 +3,10 @@
 //
 
 #include "stdafx.h"
-#include "Global.h"
-#include "Help.h"
-#include "PowerPlus.h"
-#include "PowerPlusDlg.h"
-#include "afxdialogex.h"
-#include "resource.h"
-#include "afxwin.h"
-#include "afxdtctl.h"
-#include "afxcmn.h"
+#include "../include/Global.h"
+#include "../include/Help.h"
+#include "../include/PowerPlus.h"
+#include "../include/PowerPlusDlg.h"
 
 //#include "Help_ENG.txt"
 //#include "Help_VIE.txt"

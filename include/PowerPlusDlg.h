@@ -3,6 +3,8 @@
 //
 
 #pragma once
+#include "stdafx.h"
+
 #include "afxwin.h"
 
 

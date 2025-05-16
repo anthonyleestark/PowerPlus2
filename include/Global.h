@@ -3,6 +3,8 @@
 #ifndef _GLOBAL_H
 #define _GLOBAL_H
 
+#include "stdafx.h"
+
 #include "Core.h"
 #include "Language.h"
 

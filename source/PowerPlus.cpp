@@ -3,8 +3,8 @@
 //
 
 #include "stdafx.h"
-#include "PowerPlus.h"
-#include "PowerPlusDlg.h"
+#include "../include/PowerPlus.h"
+#include "../include/PowerPlusDlg.h"
 
 #ifdef _DEBUG
 #define new DEBUG_NEW
@@ -130,4 +130,3 @@ BOOL CPowerPlusApp::InitInstance()
 	//  application, rather than start the application's message pump.
 	return FALSE;
 }
-
